@@ -1,0 +1,2 @@
+# typescriptStudy
+my typescript Study 
